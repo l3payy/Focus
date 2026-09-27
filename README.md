@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="favIcon_lilac.svg" width="72" height="72" alt="Focus" />
+<img width="1040" height="510" alt="image" src="https://github.com/user-attachments/assets/bb216eef-4b8a-4607-b571-cdedf2ba13c1" />
+
 
 # Focus — новая вкладка, спроектированная на красоту и скорость
 
