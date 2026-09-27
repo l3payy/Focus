@@ -3,6 +3,7 @@
 <img width="1040" height="510" alt="Group 1321318531" src="https://github.com/user-attachments/assets/97867f3e-d242-43af-84b0-cb2f8e7e3b63" />
 
 # Focus — ужасное внимание к деталям лишь для того, чтобы их не замечать
+</div>
 
 ## Зачем
 
