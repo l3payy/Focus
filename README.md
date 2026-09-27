@@ -4,18 +4,6 @@
 
 # Focus — ужасное внимание к деталям лишь для того, чтобы их не замечать
 
-
-![Chrome MV3](https://img.shields.io/badge/Chrome-MV3-6155F5?logo=googlechrome&logoColor=white)
-![Vanilla JS](https://img.shields.io/badge/Vanilla_JS-0_зависимостей-F7DF1E?logo=javascript&logoColor=black)
-![Local First](https://img.shields.io/badge/Local--First-IndexedDB_%2B_Cache-8A7CFF)
-![No Telemetry](https://img.shields.io/badge/telemetry-zero-22c55e)
-![Status](https://img.shields.io/badge/status-alpha_DDd3FF-DDD3FF)
-
-
-</div>
-
----
-
 ## Зачем
 
 Стартовая страница Chrome — либо бесполезная, либо перегруженная. Сторонние New Tab из маркета — как правило, заброшенные с 2015 года и не решающие главную проблему.
