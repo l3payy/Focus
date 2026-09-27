@@ -2,7 +2,7 @@
 
 <img width="1040" height="510" alt="Group 1321318531" src="https://github.com/user-attachments/assets/97867f3e-d242-43af-84b0-cb2f8e7e3b63" />
 
-# Focus — Ужасное внимание к деталям — лишь для того, чтобы их не замечать
+# Focus — ужасное внимание к деталям лишь для того, чтобы их не замечать
 
 
 ![Chrome MV3](https://img.shields.io/badge/Chrome-MV3-6155F5?logo=googlechrome&logoColor=white)
