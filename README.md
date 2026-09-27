@@ -121,15 +121,4 @@ var SITES_DB = {
 >
 > Потому что замечать кривизну пространства, в котором работаешь каждый день, — непозволительно.
 
----
 
-## Также
-
-- 🎮 [Кликер поинтов для Twitch и VK Play](https://chromewebstore.google.com/detail/twitch-and-vk-point-click/keocanoechjcomkfnmgmaamjeipapihp) — расширение
-- ✨ [l3payy.github.io](https://l3payy.github.io/) — просто прикольный сайт
-
-<div align="center">
-
-*Если Фокус экономит 10 секунд каждое утро — поставь ⭐*
-
-</div>
