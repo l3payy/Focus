@@ -13,7 +13,6 @@
 ![No Telemetry](https://img.shields.io/badge/telemetry-zero-22c55e)
 ![Version](https://img.shields.io/badge/version-0.2.2-DDd3FF)
 
-**`PgUp` / `PgDn`** или **`↑` / `↓`** — листать пространства &nbsp;•&nbsp; **`Esc`** — закрыть &nbsp;•&nbsp; **`Enter`** — поиск
 
 </div>
 
