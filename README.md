@@ -102,26 +102,6 @@ var SITES_DB = {
 
 ## 🛠️ Технически
 
-```text
-Focus/
-├── newtab.html      # пейджер на 3 пространства + скелетоны
-├── cloud.html       # ☁️ Облачка
-├── background.js    # service worker: кеш иконок и фонов
-├── sites-db.js      # база красивых иконок
-├── manifest.json    # Chrome MV3, chrome_url_overrides
-├── js/
-│   ├── boot-shell.js / boot-frame.js / boot-pager.js
-│   ├── focus-shell.js / plus-shell.js / cloud.js / newtab.js
-├── css/tokens.css   # темы: lilac / dark
-└── icon/ font/
-```
-
-| Слой | Технология |
-|---|---|
-| Манифест | **Chrome MV3**, `chrome_url_overrides: newtab` |
-| Код | **Vanilla JS**, без сборки и зависимостей |
-| Хранение | **IndexedDB** (облачка + картинки) + **Cache Storage** (иконки, фоны) + **localStorage** (настройки) |
-| Шрифты / иконки | локальные `woff2` + `svg`, `preconnect` только для поиска |
 
 ---
 
