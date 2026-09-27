@@ -2,9 +2,8 @@
 
 <img width="1040" height="510" alt="Group 1321318531" src="https://github.com/user-attachments/assets/97867f3e-d242-43af-84b0-cb2f8e7e3b63" />
 
-# Focus — новая вкладка без мусора
+# Focus — Ужасное внимание к деталям — лишь для того, чтобы их не замечать
 
-*Три пространства вместо бесконечной ленты. Всё локально. Ноль телеметрии.*
 
 ![Chrome MV3](https://img.shields.io/badge/Chrome-MV3-6155F5?logo=googlechrome&logoColor=white)
 ![Vanilla JS](https://img.shields.io/badge/Vanilla_JS-0_зависимостей-F7DF1E?logo=javascript&logoColor=black)
@@ -12,7 +11,6 @@
 ![No Telemetry](https://img.shields.io/badge/telemetry-zero-22c55e)
 ![Status](https://img.shields.io/badge/status-alpha_DDd3FF-DDD3FF)
 
-**`PgUp` / `PgDn` — листать пространства • `Esc` — закрыть • `Enter` — поиск**
 
 </div>
 
