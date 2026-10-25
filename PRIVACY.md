@@ -1,6 +1,6 @@
 # Privacy Policy — Focus
 
-Last updated: 2026-10-12
+Last updated: 2026-10-23
 
 Focus is a custom new tab page. This policy explains what the extension does with data.
 
@@ -11,18 +11,18 @@ Focus is a custom new tab page. This policy explains what the extension does wit
 ## Data stored on your device
 
 Everything you create stays in your browser's local storage and is not sent to the developer:
-- links and site names you add (localStorage)
+- links, folders and site names you add (localStorage)
 - pictures, notes and drawings on the Cloud board (IndexedDB)
 - background images (IndexedDB)
 - favicon disk cache (Cache Storage)
-- settings: theme, search icon, mail link, toggles (localStorage)
+- settings: theme, search provider, mail link, toggles (localStorage)
 
 Uninstalling the extension removes this data with the browser profile.
 
 ## Network requests
 
-The extension contacts the network only on your explicit actions:
-- **Favicons** (`icons.duckduckgo.com`, `ico.faviconkit.net`): when you add a site, the extension requests that site's icon from these services. The request contains the domain of the site you added. The icon is downloaded once, then served from the local disk cache, including offline.
+The extension uses the network for favicons and searches only. It does not send browsing history, page contents or analytics anywhere.
+- **Favicons** (`favicon.yandex.net`, fallback `icons.duckduckgo.com`): when you add a site, the extension requests that site's icon from Yandex; DuckDuckGo is used only if Yandex has no usable icon. The request contains the domain of the site you added. Icons are cached locally and normally served from that cache, including offline; a cache miss or refresh can request the icon again. On startup, Focus may also warm the cache for the first visible tiles, which can cause a favicon request for an uncached domain.
 - **Search**: by default your query is sent to your browser's default search engine via the Chrome Search API (Standard option) only when you submit a search; if you explicitly pick Google or Yandex for a space, the query goes there instead, under that service's own privacy policy.
 
 No data is sent anywhere else, at any time.
@@ -31,14 +31,18 @@ No data is sent anywhere else, at any time.
 
 - `unlimitedStorage` — prevents the browser from evicting your pictures and caches under storage pressure
 - `search` — search via the Chrome Search API with your browser's default engine
-- Host access to the two favicon services above — favicon download only
+- `contextMenus` — adds the “Save to Focus plus” link action; the link URL is read only when you click it
+- `storage` — internal queue for links saved from that context menu
+- Host access to the favicon services above — favicon download only
 
 ## Changes
 
 If this policy changes, the updated text will ship with the extension update.
 
+Contact: lepayy@bk.ru
+
 ---
 
 # Политика конфиденциальности — Focus
 
-Focus не использует аккаунты, собственные серверы, аналитику и рекламу. Ссылки, картинки, заметки, рисунки, настройки и кеш иконок хранятся только в вашем браузере; разработчик их не получает. При добавлении сайта домен отправляется сервисам иконок (DuckDuckGo, Faviconkit) для загрузки значка; поисковые запросы уходят в поисковую систему вашего браузера по умолчанию (Стандарт) либо в явно выбранный вами Google/Яндекс. Данные не продаются и не передаются для рекламы. Связь: lepayy@bk.ru
+Focus не использует аккаунты, собственные серверы, аналитику и рекламу. Ссылки, картинки, заметки, рисунки, настройки и кеш иконок хранятся только в вашем браузере; разработчик их не получает. При добавлении сайта домен отправляется сервису иконок Yandex, а при отсутствии иконки — DuckDuckGo; иконки кешируются локально, а при промахе кеша или прогреве видимых плиток при старте запрос может повториться. Поисковые запросы уходят в поисковую систему вашего браузера по умолчанию (Стандарт) либо в явно выбранный вами Google/Яндекс. Данные не продаются и не передаются для рекламы. Связь: lepayy@bk.ru
