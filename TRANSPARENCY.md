@@ -1,5 +1,6 @@
 # Фокус — паспорт прозрачности
-<img width="1040" height="510" alt="Frame 1321318801" src="https://github.com/user-attachments/assets/8ab57423-d69d-4040-a7a5-49058f5a5367" />
+<img width="580" height="800" alt="Frame 1321318865" src="https://github.com/user-attachments/assets/ad12d82e-7078-4ed2-a7b2-fdb3ac989e11" />
+
 
 
 ### 1. Что происходит при открытии вкладки:
