@@ -1,5 +1,5 @@
 # Фокус — паспорт прозрачности
-<img width="580" height="800" alt="Frame 1321318865" src="https://github.com/user-attachments/assets/ad12d82e-7078-4ed2-a7b2-fdb3ac989e11" />
+<img width="1040" height="510" alt="Frame 1321318801" src="https://github.com/user-attachments/assets/e1adfc06-edfc-4d6a-bb5d-1c4bc7398aa0" />
 
 
 
